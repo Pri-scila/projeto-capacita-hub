@@ -1,0 +1,10 @@
+com\example\demo\InscricaoController.class
+com\example\demo\CursoController.class
+com\example\demo\DemoApplication.class
+com\example\demo\Curso.class
+com\example\demo\CursoRepository.class
+com\example\demo\InscricaoRepository.class
+com\example\demo\UsuarioController.class
+com\example\demo\Usuario.class
+com\example\demo\Inscricao.class
+com\example\demo\UsuarioRepository.class
